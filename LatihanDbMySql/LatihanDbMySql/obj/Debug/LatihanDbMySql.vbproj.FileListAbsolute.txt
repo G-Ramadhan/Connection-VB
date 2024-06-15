@@ -1,0 +1,11 @@
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\bin\Debug\LatihanDbMySql.exe.config
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.vbprojResolveAssemblyReference.cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.Form1.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.Resources.resources
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.vbproj.GenerateResource.Cache
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\bin\Debug\LatihanDbMySql.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\bin\Debug\LatihanDbMySql.pdb
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\bin\Debug\LatihanDbMySql.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.exe
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.xml
+D:\Documents\APPS for Programing\Visual Studio 2013-SAVING\Projects\LatihanDbMySql\LatihanDbMySql\obj\Debug\LatihanDbMySql.pdb
